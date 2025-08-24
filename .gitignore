@@ -1,3 +1,8 @@
+# build
+build/*
+
+utils/*
+
 # Prerequisites
 *.d
 
